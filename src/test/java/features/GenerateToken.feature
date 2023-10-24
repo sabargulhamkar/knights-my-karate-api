@@ -1,6 +1,5 @@
 Feature: Generate Token Feature
 
-
   Background: Setup test
     Given url "https://qa.insurance-api.tekschool-students.com"
 
